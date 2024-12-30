@@ -4,9 +4,9 @@
 - 👨‍💻 All of my projects are available at [https://giochem.github.io/my-profile/](https://giochem.github.io/my-profile/)
 
 - 📫 How to reach me **tranxuantruong203hn@gmail.com**
-
+<--
 - 📄 Know about my experiences [https://giochem.github.io/my-profile/assets/resume.pdf](https://giochem.github.io/my-profile/assets/resume.pdf)
-
+-->
 - ⚡ Fun fact **I usually don't remember code syntax, but I know it exists**
 
 <h3 align="left">Connect with me:</h3>
