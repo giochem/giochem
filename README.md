@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tran Xuan Truong</h1>
 <h3 align="center">A passionate full stack developer from Vietnam</h3>
-
+<!--
 - 👨‍💻 All of my projects are available at [https://giochem.github.io/my-profile/](https://giochem.github.io/my-profile/)
-
+-->
 - 📫 How to reach me **tranxuantruong203hn@gmail.com**
 <!--
 - 📄 Know about my experiences [https://giochem.github.io/my-profile/assets/resume.pdf](https://giochem.github.io/my-profile/assets/resume.pdf)
